@@ -4,8 +4,8 @@ weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[dbondran@google-mail.com](mailto:dbondran@google-mail.com)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp;[+33 6 12 34 56 78](tel:+33612345678)
 
-Let us get in touch!
+Au plaisir d'échanger!

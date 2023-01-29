@@ -2,17 +2,15 @@
 title: "Services"
 ---
 
-This is a page about the services, which I offer.
+Cette page décrit les services que je propose.
 
-It carries a lot more detail than what I put on the homepage - I swear!
+Dites moi ce que vous en pensez !
 
-You want to know what I can do for you?
-
-Well, let me tell ya!
+Work in Progress
 
 ---
 
-## Nutrition Coaching
+## Voyage dans le futur
 
 This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
 
@@ -22,7 +20,35 @@ Wow. That was nice, right? Well, call me and let us talk.
 
 ---
 
-## Chef Consulting
+## Accompagnement aux changements
+
+Did you see the picture above? I can show you how to go from
+
+![Let us get started on a clean slate](../images/board-bunch-cooking-food-349609.jpg)
+
+to
+
+![Let us get started on a clean slate](../images/woman-pouring-juice-on-glass-3184192.jpg)
+
+in estimated seconds.
+
+---
+
+## Design Fiction
+
+Did you see the picture above? I can show you how to go from
+
+![Let us get started on a clean slate](../images/board-bunch-cooking-food-349609.jpg)
+
+to
+
+![Let us get started on a clean slate](../images/woman-pouring-juice-on-glass-3184192.jpg)
+
+in estimated seconds.
+
+---
+
+## Ateliers naratifs
 
 Did you see the picture above? I can show you how to go from
 
